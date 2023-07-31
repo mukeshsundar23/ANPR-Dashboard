@@ -18,7 +18,7 @@ This repository showcases a Power BI dashboard for analyzing data collected from
 
 ## Installation and Setup
 
-1. Clone this repository to your local machine: git clone https://github.com/mukeshsundar23/ANPE-Dashboard.git
+1. Clone this repository to your local machine: git clone https://github.com/mukeshsundar23/ANPR-Dashboard.git
 
 2. Install Power BI Desktop on your computer if you haven't already.
 
