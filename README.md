@@ -24,7 +24,7 @@ This repository showcases a Power BI dashboard for analyzing data collected from
 
 3. Open Power BI Desktop and click on "Open" to navigate to the cloned repository directory.
 
-4. Select the main Power BI file (e.g., `dashboard.pbix`) to open the dashboard.
+4. Select the main Power BI file (e.g., `ANPR.pbix`) to open the dashboard.
 
 5. Once the dashboard is loaded, you can start exploring the ANPR data using the interactive visualizations.
 
