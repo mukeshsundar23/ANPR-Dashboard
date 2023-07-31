@@ -30,9 +30,9 @@ This repository showcases a Power BI dashboard for analyzing data collected from
 
 ## Screenshots
 
-![Security Usage](Images/Security_page.png)
+![Security Usage](Data/Security_page.png)
 
-![Technical usage](Images/Technical_page.png)
+![Technical usage](Data/Technical_page.png)
 
 ## Contact
 
